@@ -6,8 +6,8 @@
 ### [👉 서비스 링크](https://www.knu-chatbot.site/)
 ### (구글 검색창에 "경북대 컴퓨터학부 챗봇"을 검색해보세요!)
 ---
-### 팀 노션: https://emphasized-windscreen-ce1.notion.site/1-5-6bf81138d01b4b0cbeeb4571d1609322?pvs=4
-### 피그마: https://www.figma.com/design/YYYweCNr1twBz6TJDPSb1T/%EC%A2%85%ED%94%841?node-id=211-5&t=wl068pI7pc9TJ58p-1
+### 팀 노션: [링크 이동](https://emphasized-windscreen-ce1.notion.site/1-5-6bf81138d01b4b0cbeeb4571d1609322?pvs=4)
+### 피그마: [링크 이동](https://www.figma.com/design/YYYweCNr1twBz6TJDPSb1T/%EC%A2%85%ED%94%841?node-id=211-5&t=wl068pI7pc9TJ58p-1)
 ### 결과 보고서: 
 ---
 ## 프로젝트 목표
@@ -44,8 +44,15 @@
 ---
 
 ## 구현 사진
-
-
+<img src='https://github.com/user-attachments/assets/e2b18b97-50a4-406c-81d7-1227ac6d3509' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/1bdd4ae7-33ca-4834-9732-86b31de2d847' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/685ee493-8374-401a-8b63-56f6b2942609' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/07f8d8bc-b533-44f5-b270-8931683fb53d' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/9af9c4e6-202a-43e4-8c0e-494f1a68f942' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/5c15dd2e-4d50-490f-9c1f-5dc465870afb' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/1c7b19ab-e769-4ffb-9cb1-d988d50374c2' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/3115ce18-676f-49e0-beb7-519022d39872' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/0e9a483a-fde8-46f6-b0ab-264b92a8cf28' width="300px;" border='0'></a>
 ---
 ## 향후 개선 혹은 발전 방안
 - 학생들의 정보 접근성 개선 및 학과 이미지 제고
