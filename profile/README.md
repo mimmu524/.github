@@ -29,7 +29,7 @@
 ---
 
 ## 유즈케이스
-![{71807CB6-F87F-4370-9BB6-E62C8FC56619}](https://github.com/user-attachments/assets/89b734cf-d309-46d8-8f12-f55afcc1f4bc)
+<img src='https://github.com/user-attachments/assets/fbff37c3-6bab-4e61-a355-03dc67f45c0b' width="400px;" border='0'>
 
 ## 전체 시스템 구조
 ![{0BF4D026-1A34-485F-876A-085093B36F4A}](https://github.com/user-attachments/assets/0ee272af-c89f-4dc6-8be6-924725917a6c)
@@ -44,15 +44,15 @@
 ---
 
 ## 구현 사진
-<img src='https://github.com/user-attachments/assets/e2b18b97-50a4-406c-81d7-1227ac6d3509' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/1bdd4ae7-33ca-4834-9732-86b31de2d847' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/685ee493-8374-401a-8b63-56f6b2942609' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/07f8d8bc-b533-44f5-b270-8931683fb53d' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/9af9c4e6-202a-43e4-8c0e-494f1a68f942' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/5c15dd2e-4d50-490f-9c1f-5dc465870afb' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/1c7b19ab-e769-4ffb-9cb1-d988d50374c2' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/3115ce18-676f-49e0-beb7-519022d39872' width="300px;" border='0'></a>
-<img src='https://github.com/user-attachments/assets/0e9a483a-fde8-46f6-b0ab-264b92a8cf28' width="300px;" border='0'></a>
+<img src='https://github.com/user-attachments/assets/e2b18b97-50a4-406c-81d7-1227ac6d3509' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/1bdd4ae7-33ca-4834-9732-86b31de2d847' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/685ee493-8374-401a-8b63-56f6b2942609' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/07f8d8bc-b533-44f5-b270-8931683fb53d' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/9af9c4e6-202a-43e4-8c0e-494f1a68f942' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/5c15dd2e-4d50-490f-9c1f-5dc465870afb' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/1c7b19ab-e769-4ffb-9cb1-d988d50374c2' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/3115ce18-676f-49e0-beb7-519022d39872' width="300px;" border='0'>
+<img src='https://github.com/user-attachments/assets/0e9a483a-fde8-46f6-b0ab-264b92a8cf28' width="300px;" border='0'>
 ---
 ## 향후 개선 혹은 발전 방안
 - 학생들의 정보 접근성 개선 및 학과 이미지 제고
