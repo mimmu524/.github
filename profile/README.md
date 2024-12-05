@@ -39,7 +39,7 @@
 - 프론트 서버 : vercel
 - 백엔드 : express.js, mongoDB
 - 백엔드 서버 : aws ec2
-- AI : LangChain, Upstage, FAISS, Pinecone
+- AI : LangChain, Upstage, Pinecone
 - AI 서버 : aws ec2
 ---
 
