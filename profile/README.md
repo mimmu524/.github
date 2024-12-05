@@ -8,12 +8,12 @@
 ---
 ### 팀 노션: https://emphasized-windscreen-ce1.notion.site/1-5-6bf81138d01b4b0cbeeb4571d1609322?pvs=4
 ### 피그마: https://www.figma.com/design/YYYweCNr1twBz6TJDPSb1T/%EC%A2%85%ED%94%841?node-id=211-5&t=wl068pI7pc9TJ58p-1
+### 결과 보고서: 
 ---
-
 ## 프로젝트 목표
-### 정보 접근 효율화: 공지사항 및 정보를 쉽게 검색하고 빠르게 찾을 수 있는 시스템 구축한다.
-### 자동 응답 시스템 개발: RAG와 LLM을 활용해 질문에 자동으로 정확한 답변 제공한다.
-### 정보 불균형 해소: 신입생 등 정보 접근이 어려운 학생들에게 필요한 정보 제공한다.
+- 정보 접근 효율화: 공지사항 및 정보를 쉽게 검색하고 빠르게 찾을 수 있는 시스템 구축한다.
+- 자동 응답 시스템 개발: RAG와 LLM을 활용해 질문에 자동으로 정확한 답변 제공한다.
+- 정보 불균형 해소: 신입생 등 정보 접근이 어려운 학생들에게 필요한 정보 제공한다.
 
 ## 팀원 소개
 | 역할 | 이름 | 
@@ -24,61 +24,34 @@
 |AI|고상희|
 |AI|이석현|
 
-
 ## 시연 영상
-
-### [시연영상 보러가기](https://www.youtube.com/watch?v=O4prGH9wHOA)
-https://www.youtube.com/watch?v=O4prGH9wHOA
-
-## 서비스 소개
-### 🐠 개요
-**물멍**은 어린이들이 아쿠아리움에서 해양 생물들을 더 재미있고 유익하게 관찰할 수 있도록 돕는 교육용 애플리케이션입니다. 사용자가 아쿠아리움에서 생물 사진을 찍으면, 해당 생물을 자동으로 **Detection**하여 **멸종 위기 등급**과 함께 보여줍니다. 이를 통해 어린이들이 해양 생물에 대해 흥미를 갖고, 멸종 위기에 대한 인식을 높일 수 있도록 합니다.
-
-### ✨ 주요 기능
-- **📷 생물 Detection 및 정보 제공:** 사용자가 카메라로 사진을 찍으면 해당 생물의 정보를 제공하고 멸종 위기 등급을 보여줍니다.
-- **📚 도감 기능:** 발견한 생물을 도감에 저장하여 언제든지 확인할 수 있으며, 각 생물의 상세 정보를 볼 수 있습니다.
-- **🐟 나만의 아쿠아리움:** 주요 16종의 생물을 발견할 때마다 사용자의 아쿠아리움에 추가되며, 이를 통해 수집의 재미를 제공합니다.
-- **🚨 멸종 위기 등급 태그:** 각 생물은 위급(CR), 위기(EN), 취약(VU), 최소관심(LC)으로 분류되어, 어린이들이 멸종 위기 등급에 따라 수집하고 학습할 수 있습니다.
-- **🌐 보호종 더 알아보기:** 보호종에 대한 정보 버튼을 클릭하면 **국립 생태원** 사이트로 연결되어 해양 생태계 문제에 대한 인식을 높일 수 있습니다.
-
-### 🎓 앱의 교육적 목표
-물멍은 어린이들이 아쿠아리움에서 해양 생물을 관찰하는 데 집중하고, 해양 생물의 멸종 위험성에 대해 자연스럽게 학습할 수 있도록 돕습니다. 이 앱은 해양 생태계 보호와 관련된 정보 제공을 통해 아이들이 환경 문제에 대해 더 깊이 생각할 수 있도록 유도합니다.
-
-### 유즈케이스
-<img width="833" alt="image" src="https://github.com/user-attachments/assets/ceddeaa0-250e-41da-b6c3-05c9018da75a">
-
+### [영상 링크](https://www.youtube.com/watch?v=O4prGH9wHOA)
 ---
 
-### 구현 사진
-<a href='https://github.com/user-attachments/assets/6a7a1ece-1c94-4535-9538-6f4a2a5fda52' target='_blank'><img src='https://github.com/user-attachments/assets/6a7a1ece-1c94-4535-9538-6f4a2a5fda52' width="300px;" border='0'></a>
-<a href='https://github.com/user-attachments/assets/8a453660-290e-4ffa-8d2a-d614e83829bc' target='_blank'><img src='https://github.com/user-attachments/assets/8a453660-290e-4ffa-8d2a-d614e83829bc' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/9336f012-3a37-4084-9dce-31609afa11fb' target='_blank'><img src='https://github.com/user-attachments/assets/9336f012-3a37-4084-9dce-31609afa11fb' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/295543a5-c064-4e45-9b4c-72022e6ab35d' target='_blank'><img src='https://github.com/user-attachments/assets/295543a5-c064-4e45-9b4c-72022e6ab35d' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/d8b8f6db-9e38-480d-a766-52a8dce16a16' target='_blank'><img src='https://github.com/user-attachments/assets/d8b8f6db-9e38-480d-a766-52a8dce16a16' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/f6b0682b-25f9-436d-988e-918a61c2ad9c' target='_blank'><img src='https://github.com/user-attachments/assets/f6b0682b-25f9-436d-988e-918a61c2ad9c' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/caad4957-8749-4a33-aa38-bff058de92f4' target='_blank'><img src='https://github.com/user-attachments/assets/caad4957-8749-4a33-aa38-bff058de92f4' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/67f85feb-9535-4e60-b80c-5e1c524314d1' target='_blank'><img src='https://github.com/user-attachments/assets/67f85feb-9535-4e60-b80c-5e1c524314d1' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/c0911a42-c45d-42c5-80cd-5fbaab04d049' target='_blank'><img src='https://github.com/user-attachments/assets/c0911a42-c45d-42c5-80cd-5fbaab04d049' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/8d0bbbe5-28a6-4625-9ff2-e4d680c99c92' target='_blank'><img src='https://github.com/user-attachments/assets/8d0bbbe5-28a6-4625-9ff2-e4d680c99c92' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/d69e185b-31c6-40cd-b09b-2d648b591252' target='_blank'><img src='https://github.com/user-attachments/assets/d69e185b-31c6-40cd-b09b-2d648b591252' width="300px;"  border='0'></a>
-<a href='https://github.com/user-attachments/assets/c994f98e-7a9d-4b7b-993d-c281c102c6cd' target='_blank'><img src='https://github.com/user-attachments/assets/c994f98e-7a9d-4b7b-993d-c281c102c6cd' width="300px;"  border='0'></a>
+## 유즈케이스
+![{71807CB6-F87F-4370-9BB6-E62C8FC56619}](https://github.com/user-attachments/assets/89b734cf-d309-46d8-8f12-f55afcc1f4bc)
+
+## 전체 시스템 구조
+![{0BF4D026-1A34-485F-876A-085093B36F4A}](https://github.com/user-attachments/assets/0ee272af-c89f-4dc6-8be6-924725917a6c)
+
+## 구현 방식
+- 프론트 : typescript, react, pnpm, chakra ui
+- 프론트 서버 : vercel
+- 백엔드 : express.js, mongoDB
+- 백엔드 서버 : aws ec2
+- AI : LangChain, Upstage, FAISS, Pinecone
+- AI 서버 : aws ec2
+---
+
+## 구현 사진
 
 
-### 구현 방식
-- 프론트 : typescript, react, emotion css, chakra ui
-- 프론트 서버 : aws s3
-- 백엔드 : Java, Spring Boot, MySQL
-- 백엔드 서버 : GCP
-- AI : ultralytics, pytorch, opencv, roboflow, flask, selenium
-- AI 서버 : GCP
-  
-### 웹 서버 아키텍쳐
-
-<img width="1355" alt="image" src="https://github.com/user-attachments/assets/a6da81ce-400b-4714-8f7d-1e69d8a32b8f">
-
-
+---
 ## 향후 개선 혹은 발전 방안
-- 더 다양한 물고기들을 인식할 수 있는 AI 모델 개발
-- 전국에 있는 아쿠아리움별 서비스 제공
-- 향상된 GPU 자원을 통한 증강된 사진 학습 (현재는 gpu 리소스의 부족으로 증강 전에 라벨링된 이미지만 사용함)
+- 학생들의 정보 접근성 개선 및 학과 이미지 제고
+- 행정 업무의 효율화
+- 데이터 활용 기반의 지속적 시스템 개선 가능성
+---
+## 프로젝트 산출물
+![{50EB3E16-FD45-471A-8247-BFB8F9AB7657}](https://github.com/user-attachments/assets/588c3577-10c2-4a0e-bd7b-90a90522f4ec)
 
