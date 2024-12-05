@@ -54,11 +54,13 @@
 <img src='https://github.com/user-attachments/assets/3115ce18-676f-49e0-beb7-519022d39872' width="300px;" border='0'>
 <img src='https://github.com/user-attachments/assets/0e9a483a-fde8-46f6-b0ab-264b92a8cf28' width="300px;" border='0'>
 ---
+
 ## 향후 개선 혹은 발전 방안
 - 학생들의 정보 접근성 개선 및 학과 이미지 제고
 - 행정 업무의 효율화
 - 데이터 활용 기반의 지속적 시스템 개선 가능성
 ---
+
 ## 프로젝트 산출물
 ![{50EB3E16-FD45-471A-8247-BFB8F9AB7657}](https://github.com/user-attachments/assets/588c3577-10c2-4a0e-bd7b-90a90522f4ec)
 
