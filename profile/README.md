@@ -25,7 +25,7 @@
 |AI|이석현|
 
 ## 시연 영상
-### [영상 링크](https://www.youtube.com/watch?v=O4prGH9wHOA)
+### [영상 링크]([https://www.youtube.com/watch?v=O4prGH9wHOA](https://youtu.be/zoHKYodAu8E))
 ---
 
 ## 유즈케이스
